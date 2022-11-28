@@ -11,6 +11,7 @@ $$ E=mc^{2} $$
 
 https://deepnote.com/@gena-sukhoroslov
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVP_JjXXM=/?moveToViewport=243,-844,2234,1090&embedId=861839086480" frameborder="0" scrolling="no" 
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVP_JjXXM=/?moveToViewport=243,-844,2234,1090&embedId=861839086480" frameborder="0" scrolling="no"
+        
 
 https://view.genial.ly/6376ee6fd08e4e0018fe7af1/interactive-image-interactive-image
