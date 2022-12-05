@@ -14,3 +14,11 @@ https://deepnote.com/@gena-sukhoroslov
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVP_JjXXM=/?moveToViewport=243,-844,2234,1090&embedId=480020534475" frameborder="0" scrolling="no" allowfullscreen></iframe>   
 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 100.00%; padding-top: 0; height: 0;"><iframe title="Interactive image" frameborder="0" width="1200" height="1200" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/6376ee6fd08e4e0018fe7af1" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+
+<style>
+/* Стили кнопки */
+.iksweb{display: inline-block;cursor: pointer; font-size:19px;text-decoration:none;padding:10px 20px; color:#354251;background:#8fccf7;border-radius:11px;border:2px solid #095c96;}
+.iksweb:hover{background:#5fb7f5;color:#ffffff;border:2px solid #354251;transition: all 0.4s ease;}
+</style>
+
+<a class="iksweb" href="https://pnzhnp.github.io/"   title="Поехали!">Поехали!</a>
