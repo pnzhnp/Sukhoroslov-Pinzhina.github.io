@@ -46,7 +46,7 @@
 	</a>
 	<div class="DPDCh" style="color: rgb(94, 0, 189); text-align: center; margin-left: auto; margin-right: auto;">Текущее Время в городе Томск</div>
 	<div class="DPDCt" style="text-align: center; margin-left: auto; margin-right: auto;">
-		<span class="DPDCth">10</span><span class="DPDCtm">34</span><span class="DPDCts">07</span><span class="DPDCt12"></span>
+		<span class="DPDCth">10</span><span class="DPDCtm">36</span><span class="DPDCts">07</span><span class="DPDCt12"></span>
 	</div>
 	<div class="DPDCd" style="text-align: center; margin-left: auto; margin-right: auto;">
 		<span class="DPDCdt">Пн., 12 Декабря</span><span class="DPDCtn" style="display: none;"><i></i></span>
@@ -74,8 +74,6 @@
 	</script>
 	<!--/DPDC-->
 	</div><!--Dayspedia.com widget ENDS-->
-	
-
 
 <style>
 /* Стили кнопки */
