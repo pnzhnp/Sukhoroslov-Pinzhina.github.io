@@ -75,6 +75,8 @@
 	<!--/DPDC-->
 	</div><!--Dayspedia.com widget ENDS-->
 
+
+
 <style>
 /* Стили кнопки */
 .iksweb{display: inline-block;cursor: pointer; font-size:19px;text-decoration:none;padding:10px 20px; color:#354251;background:#8fccf7;border-radius:11px;border:2px solid #095c96;}
