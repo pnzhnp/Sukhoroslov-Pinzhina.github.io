@@ -1,5 +1,6 @@
 # Sukhoroslov-Pinzhina.github.io
 ![image](https://user-images.githubusercontent.com/114376620/206954540-11a50f9e-1a4d-43bf-9b60-01cf2fb100b5.png)
+
 <!--Dayspedia.com widget--><div class="DPDC" cityid="5720" lang="ru" id="dayspedia_widget_1b9377b3a87266c3" host="https://dayspedia.com" ampm="false" nightsign="true" sun="false" style="background-image: url(&quot;https://cdn.dayspedia.com/img/widgets/bg-12.png&quot;); border-color: rgb(81, 146, 230); border-width: 4px; padding: 16px 16px 24px;">
 
 	<style media="screen" id="dayspedia_widget_1b9377b3a87266c3_style">
@@ -45,7 +46,7 @@
 	</a>
 	<div class="DPDCh" style="color: rgb(94, 0, 189); text-align: center; margin-left: auto; margin-right: auto;">Текущее Время в городе Томск</div>
 	<div class="DPDCt" style="text-align: center; margin-left: auto; margin-right: auto;">
-		<span class="DPDCth">10</span><span class="DPDCtm">31</span><span class="DPDCts">25</span><span class="DPDCt12"></span>
+		<span class="DPDCth">10</span><span class="DPDCtm">34</span><span class="DPDCts">07</span><span class="DPDCt12"></span>
 	</div>
 	<div class="DPDCd" style="text-align: center; margin-left: auto; margin-right: auto;">
 		<span class="DPDCdt">Пн., 12 Декабря</span><span class="DPDCtn" style="display: none;"><i></i></span>
@@ -73,15 +74,7 @@
 	</script>
 	<!--/DPDC-->
 	</div><!--Dayspedia.com widget ENDS-->
-
-![image](https://user-images.githubusercontent.com/114376620/200225851-86e5e19d-6171-42e6-9f34-1bfd1d04796a.png)
-
-https://deepnote.com/@gena-sukhoroslov
-
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVP_JjXXM=/?moveToViewport=243,-844,2234,1090&embedId=480020534475" frameborder="0" scrolling="no" allowfullscreen></iframe>   
-
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 100.00%; padding-top: 0; height: 0;"><iframe title="Interactive image" frameborder="0" width="1200" height="1200" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/6376ee6fd08e4e0018fe7af1" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
-
+	
 
 
 <style>
