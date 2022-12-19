@@ -100,3 +100,6 @@ F -->|подготовиться еще раз|C{ЕГЭ}
 ```
 
 http://project6507954.tilda.ws/page32540229....
+
+
+![mermaid-diagram-2022-12-19-105849](https://user-images.githubusercontent.com/114376620/208345052-c3610b7c-8fa8-4fbb-b7d7-3f887a037d5a.png)
